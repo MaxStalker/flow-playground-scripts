@@ -1,4 +1,4 @@
-let SIDEBAR_CLASSES = ".css-1iue16b, .css-14xc9o";
+var SIDEBAR_CLASSES = ".css-1iue16b, .css-14xc9o";
 
 function loadScript(url) {
   return new Promise((resolve, reject) => {
